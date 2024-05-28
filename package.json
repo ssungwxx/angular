@@ -175,7 +175,8 @@
     "typescript": "~4.9.3",
     "webtreemap": "^2.0.1",
     "xhr2": "0.2.1",
-    "yargs": "^17.2.1"
+    "yargs": "^17.2.1",
+    "@kakao/admin-ui-react'": "1.0.0",
   },
   "// 2": "devDependencies are not used under Bazel. Many can be removed after test.sh is deleted.",
   "devDependencies": {
